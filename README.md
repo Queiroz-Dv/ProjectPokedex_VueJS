@@ -1,24 +1,9 @@
-# pokedex
+# 🎮 Pokedex Vue.JS
 
-## Project setup
-```
-npm install
-```
+O projeto é baseado para fins de estudos acerca do framework VueJS, outras tecnologias e aprimoramento de técnicas.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🛠 Ferramentas e Tecnologias Utilizadas
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Visual Studio Code
+- Bulma
+- Axios
